@@ -92,6 +92,19 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
      3. Under Format. Click on Accounting, select Yoruba sign
     
    - Removing the Duplicate value on Order Table
-   - Format as Table 
+   - Format as Table
+   - Creating the Pivot Tables
+   - Data visualization 
+   - Dashboard development 
+   - Insight Generation 
 
+## Data Analysis:
+•	The following pivot tables and chat were created:
+ - Top 10 Customer by Reven
+ - WeekDay by no of  Revenue
+ - Location by No of Revenue
+ - Weekday by Sum of Revenue
+ - Product by No of Revenue 
+ - Month  by Sum of Revenue
+ - Hours by No of transaction
 
