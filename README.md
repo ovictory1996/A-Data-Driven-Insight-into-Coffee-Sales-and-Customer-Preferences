@@ -43,5 +43,14 @@ The dataset used in this project contains detailed records of coffee product tra
  - Coffee Type Name: Descriptive version of the Coffee Type column.
  - Roast Type Name: Descriptive version of the Roast Type column.
 
+## DATA COLLECTION AND PREPARATION 
+### Data Sources
+The dataset was sourced from a simulated coffee sales record, structured to reflect real-world transactions. It was provided in Excel format and includes details such as order ID, customer information, product type, roast level, size, pricing, and total sales. Though fictional, the data is ideal for practical analysis and visualization tasks.
+#### Raw data:
+[Download CoffeeorderSales DATASET](coffeeOrdersData.xlsx)
+#### Corrected Data:
+[Download  corrected Coffee order Sales DATASET](CORRECTEDCOFFEEODERSALE.xlsx)
+
+
 
 
