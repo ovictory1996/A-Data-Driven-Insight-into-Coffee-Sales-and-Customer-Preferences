@@ -51,6 +51,20 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
 #### Corrected Data:
 [Download  corrected Coffee order Sales DATASET](CORRECTEDCOFFEEODERSALE.xlsx)
 
+### Tools used: Excel
+    - VLOOKUP
+    - IF Statement
+    - Pivot Table
+    - pivot Chart
+    
+## SKILLS DEMONSTRATED
+  - Filling up the empty column (Customer Name, Email, Country, Coffee Type, 
+    Roast Type, Size, Unit Price, Sales on child table (Orders) from Parents table
+    (Customers, products) Using VLOOKUP
+    ![coffee](completecolomn.PNG)
 
+
+   - Using IF- Statement to make every zero values to empty cells on “email” column under  order table.
+       ![ifstatement](ifstatement.PNG)
 
 
