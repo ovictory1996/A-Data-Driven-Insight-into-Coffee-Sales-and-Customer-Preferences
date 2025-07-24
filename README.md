@@ -74,6 +74,13 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
      
    - Creating another column For Roast type to make full meaning (Medium,Large, Dark) using If Statement
      (=IF(J5="m","medium",IF(J5="l","large",IF(J5="d","dark"))))
+
+   - Converting the Order Date to more readable format.
+      1. Highlight the order Date column
+      2. Go to Format, under alignment Settings
+      3. click on  Number, enter Custom
+      4. On type : dd-mmm-yyyy. then click Ok
+     
      
 
 
