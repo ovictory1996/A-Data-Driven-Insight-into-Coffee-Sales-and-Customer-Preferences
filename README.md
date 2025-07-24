@@ -80,7 +80,12 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
       2. Go to Format, under alignment Settings
       3. click on  Number, enter Custom
       4. On type : dd-mmm-yyyy. then click Ok
-     
-     
+
+   - Concerting the size column to Kg.
+     1. Highlight The size column
+     2. G 2. Go to Format, under alignment Settings
+     3. click on  Number, enter Custom
+     4. On type : 0.0 "kg", Then click Ok
+   - 
 
 
