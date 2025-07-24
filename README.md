@@ -67,4 +67,13 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
    - Using IF- Statement to make every zero values to empty cells on “email” column under  order table.
        ![ifstatement](ifstatement.PNG)
 
+   - Calculting the Sale column: Sale = Quantity*Unit Price
+     
+   - Creating another column to make a full meaning of Coffee type (Robusta, Excelsa, Arabics and Liberica) by using IF Statement
+     (=IF(I6="rob","robusta",IF(I6="exc","excelsa",IF(I6="ara","arabics",IF(I6="lib","liberica","")))))
+     
+   - Creating another column For Roast type to make full meaning (Medium,Large, Dark) using If Statement
+     (=IF(J5="m","medium",IF(J5="l","large",IF(J5="d","dark"))))
+     
+
 
