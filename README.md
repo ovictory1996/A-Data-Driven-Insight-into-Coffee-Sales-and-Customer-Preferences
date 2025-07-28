@@ -106,5 +106,5 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
  - Weekday by Sum of Revenue
  - Product by No of Revenue 
  - Month  by Sum of Revenue
- - Hours by No of transaction
+ - Hours by No of transactio
 
