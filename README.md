@@ -105,6 +105,7 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
  - Coffee type by Revenue
  - Roast Type by Revenue
  - Country by Revenue
+   
  ![PivotTable](pivot1.PNG)
 
  ![PivotTable](pivot2.PNG)
