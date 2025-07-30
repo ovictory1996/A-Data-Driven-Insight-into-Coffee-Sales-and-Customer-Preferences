@@ -111,7 +111,8 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
  ![PivotTable](pivot2.PNG)
 
 ## Visualizations
-These visualizations aid decision-making by highlighting best-selling products, customer preferences, and revenue contributions by region and coffee type.
+These visualizations aid decision-making by highlighting best-selling products, customer preferences, and revenue contributions by Monthly and coffee type.
+
 ![Visualizations](visual.PNG)
 
 
