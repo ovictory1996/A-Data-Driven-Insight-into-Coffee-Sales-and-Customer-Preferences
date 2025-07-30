@@ -1,4 +1,4 @@
-# A-Data-Driven-Insight-into-Coffee-Sales-and-Customer-Preferences
+<img width="318" height="59" alt="image" src="https://github.com/user-attachments/assets/7825af98-891a-4b1a-b09b-8eb7d4f6bc0b" /><img width="365" height="59" alt="image" src="https://github.com/user-attachments/assets/68823b94-3cdb-4e13-b2ed-0c3049f82afa" /># A-Data-Driven-Insight-into-Coffee-Sales-and-Customer-Preferences
 ![coffee](4coffee.PNG)
 
 ## TABLE OF CONTENT
@@ -100,11 +100,10 @@ The dataset was sourced from a simulated coffee sales record, structured to refl
 
 ## Data Analysis:
 •	The following pivot tables and chat were created:
- - Top 10 Customer by Reven
- - WeekDay by no of  Revenue
- - Location by No of Revenue
- - Weekday by Sum of Revenue
- - Product by No of Revenue 
- - Month  by Sum of Revenue
- - Hours by No of transactio
+ - Top 10 Customer by Revenue
+ - Monthly Sales By Coffee type
+ - Coffee type by Revenue
+ - Roast Type by Revenue
+ - Country by Revenue
+
 
