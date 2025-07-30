@@ -1,5 +1,7 @@
-<img width="318" height="59" alt="image" src="https://github.com/user-attachments/assets/7825af98-891a-4b1a-b09b-8eb7d4f6bc0b" /><img width="365" height="59" alt="image" src="https://github.com/user-attachments/assets/68823b94-3cdb-4e13-b2ed-0c3049f82afa" /># A-Data-Driven-Insight-into-Coffee-Sales-and-Customer-Preferences
+# A-Data-Driven-Insight-into-Coffee-Sales-and-Customer-Preferences
+
 ![coffee](4coffee.PNG)
+
 
 ## TABLE OF CONTENT
 
