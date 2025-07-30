@@ -115,4 +115,12 @@ These visualizations aid decision-making by highlighting best-selling products, 
 
 ![Visualizations](visual.PNG)
 
+## Insight from analysis
+- Most Popular Coffee Type: Indicates strong customer preference, possibly due to taste or brand reputation.
+- Top Performing Roast Type: Suggests a trend or customer inclination towards lighter flavor profiles.
+- High Revenue Products: Upselling larger sizes or premium blends could increase profit margins.
+- Country-wise Market Insights: Sales are spread across countries; detailed grouping by "Country" could reveal strongest geographic markets.
+- Date-Based Opportunity: All orders appear within the same date (05-Sep-2019) in the dataset.
+
+## 
 
