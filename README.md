@@ -7,7 +7,7 @@
 
 - [INTRODUCTION](#Introduction)
 
-- [DATA DESCRIPTION](#Data Description)
+- [DATA DESCRIPTION](#Data=Description)
 
 - [Data Collection and Preparation ](#Data-Collection-and-Preparation)
 
@@ -47,7 +47,7 @@ The dataset used in this project contains detailed records of coffee product tra
 
 ## DATA COLLECTION AND PREPARATION 
 ### Data Sources
-The dataset was sourced from a simulated coffee sales record, structured to reflect real-world transactions. It was provided in Excel format and includes details such as order ID, customer information, product type, roast level, size, pricing, and total sales. Though fictional, the data is ideal for practical analysis and visualization tasks.
+The dataset was souD, customer information, product trced from a simulated coffee sales record, structured to reflect real-world transactions. It was provided in Excel format and includes details such as order Iype, roast level, size, pricing, and total sales. Though fictional, the data is ideal for practical analysis and visualization tasks.
 #### Raw data:
 [Download CoffeeorderSales DATASET](coffeeOrdersData.xlsx)
 #### Corrected Data:
