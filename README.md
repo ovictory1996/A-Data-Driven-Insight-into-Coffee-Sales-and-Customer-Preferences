@@ -5,7 +5,7 @@
 
 ## TABLE OF CONTENT
 
-- [INTRODUCTION](#Introduction)
+- [INTRODUCTION]
 
 - [DATA DESCRIPTION](#Data-Description)
 
